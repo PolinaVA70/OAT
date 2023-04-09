@@ -4,7 +4,7 @@ import Triangle
 class TestTriangleMethods(unittest.TestCase):
 
     def setUp(self):
-        #print("setUp")
+        print("setUp")
         self.a = "3"
         self.b = "3"
         self.c = "3"
